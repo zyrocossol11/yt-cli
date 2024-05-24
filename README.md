@@ -1,0 +1,2 @@
+# yt-cli
+A cli program that can search youtube videos and link it to mpv, written in C.
